@@ -1,0 +1,14 @@
+有如下目录，请你将其中labels为0对应的image, label, uncertainty的slice去掉，并将剩余的文件保存在一个新文件夹中
+- /media/ubuntu/maxiaochuan/SAM_adaptive_learning/sam_data/UTAH
+  - images
+    - train
+    - valid
+    - test
+  - labels
+    - train
+    - valid
+    - test
+  - uncertainty
+    - train
+    - valid
+    - test
